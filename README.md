@@ -1,120 +1,51 @@
-<h1 align="center">Welcome to developer-portfolio 👋</h1>
-<a href="https://github.com/johnrajan95908/developer-portfolio/blob/main/LICENSE"><img alt="GitHub license" src="https://img.shields.io/github/license/johnrajan95908/developer-portfolio"></a><a href="https://github.com/johnrajan95908/developer-portfolio/issues"><img alt="GitHub issues" src="https://img.shields.io/github/issues/johnrajan95908/developer-portfolio"></a><a href="https://github.com/johnrajan95908/developer-portfolio/network"><img alt="GitHub forks" src="https://img.shields.io/github/forks/johnrajan95908/developer-portfolio"></a> <a href="https://github.com/johnrajan95908/developer-portfolio/stargazers"><img alt="GitHub stars" src="https://img.shields.io/github/stars/johnrajan95908/developer-portfolio"></a>
+# <a href="https://www.Wordpress-RockStar.com" target="_blank">John Rajan-WordPress RockStar!</a>
 
-## Software Developer Portfolio Template built with Next.js, bootstrap that helps you showcase your work and skills as a software developer.
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/johnrajan95908/)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://github.com/johnrajan95908/)
+[![Author](https://img.shields.io/badge/Author-John%20Rajan-blue.svg)](https://github.com/johnrajan95908/)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-3%20December%202023-yellow.svg)](https://github.com/johnrajan95908/)
+
+ <p align="justify">
+ As an experienced front-end developer with over eight years of web application development experience, I am passionate about working with the latest web technologies to create products of high-quality user experience and excellent performance.</br> I have a strong foundation in front-end development and am skilled in creating reusable and maintainable code.</br>
+Throughout my career, I have consistently focused on improving my programming skills and staying up-to-date on the latest technologies and trends.</br> I am always eager to continue learning and growing as a developer.
+
+🚀Most used tech-stack:
+
+✔️Front-End: React.js, Next.js, HTML/HTML5, CSS/CSS3, JavaScript, SCSS, Bootstrap, Foundation, tailwind and Material-UI.</br>
+✔️Backend: Node.js, RESTful API</br>
+✔️Frameworks: Next.js, Angular, Vue.js, Express</br>
+✔️CMS:Wordpress, Jekyll</br>
+✔️Version Control System: GitHub, GitLab</br>
+✔️Software Management tools: Slack, JIRA, Asana, Trello, Wrike</br>
+✔️Design tools: Figma, XD, Photoshop</br>
+
+I dive into work and quickly deliver stunning results.</br>
+
+🚀As a Front-End Developer, I can ensure delivering the following:</br>
+
+✔️ Mobile/Web Applications</br>
+✔️ Landing pages</br>
+✔️ ECommerce Websites</br>
+✔️ Web-Based Systems and Applications</br>
+✔️ Figm/PSD/Sketch/Xd to HTML</br>
+✔️ Create new functionalities for existing websites</br>
+✔️ Debugging errors and finding solutions</br>
+✔️ Working through Git, Slack, and Trello</br>
+✔️ Full transparency and daily updates on the progress</br>
+
+🚀My services:</br>
+✔️ Front-End Developer | Turning Designs into Experiences | HTML, CSS, JS Enthusiast | Making the Web Giga-great! 🎨</br>
+✔️ Crafting Pixel-perfect Experiences | HTML, CSS, JS | Lover of Clean Code and Creative Designs | Let's Code and Connect! ✨</br>
+✔️ Bringing Designs to Life with Code | UI/UX Explorer | HTML/CSS Jedi | Making the Web Beautifully Usable 💡</br>
+
+Ultimately, if you want a reliable, hardworking, and above all trustworthy person to work with, you can consider doing so with me</br>
+Thank you.
+ </p>
 
 <p align="center">
-  <kbd>
-    <img src="https://github.com/johnrajan95908/developer-portfolio/blob/master/picture.PNG"></img>
-  </kbd>
+  <img width="" height="" src="./intro (1).jpg">
+  <img width="" height="" src="./intro (2).jpg">
+</p>
 </p>
 
-## To view a live example, **[click here](https://developer-portfolio-johnrajan95908.vercel.app/)**.
-
-Just Edit `portfolio.js` to get your personal portfolio. Feel free to use it as-is or customize it as much as you want.
-
-But if you want to **contribute** and make this much better for other developer have a look at [Issues](https://github.com/johnrajan95908/developer-portfolio/issues).
-
-If you created something awesome and want to contribute then feel free to open an [pull request](https://github.com/johnrajan95908/developer-portfolio/pulls).
-
-## Sections
-
-✔️ Summary and About me\
-✔️ Skills\
-✔️ Education\
-✔️ Work Experience\
-✔️ Feedbacks\
-✔️ Projects\
-✔️ Github Profile
-
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
-
-You'll need [Git](https://git-scm.com) and [Node.js](https://nodejs.org/en/download/) (which comes with [npm](http://npmjs.com)) installed on your computer.
-<br>
-**For Windows** Install Visual C++ Build Environment: [Visual Studio Build Tools](https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools)
-
-```
-node@v10.16.0 or higher
-npm@6.9.0 or higher
-git@2.17.1 or higher
-```
-
-## How To Use
-
-1. Fork this repoistory and clone it to your local machine.
-
-```bash
-$ git clone https://github.com/<your-username>/developer-portfolio.git
-```
-
-2. Go into the repository
-
-```bash
-$ cd developer-portfolio
-```
-
-3. Install dependencies
-
-```bash
-$ yarn
-```
-
-4. Edit `portfolio.js`
-
-5. Start your development server
-
-```bash
-$ yarn dev
-```
-
-## Linking Portfolio to Github
-
-```javascript
-  //  portfolio.js
-  githubUserName: 'YOUR GITHUB USERNAME HERE',
-```
-
-#### Using Emojis
-
-For adding emoji 😃 into the texts in `Portfolio.js`, use the `emoji()` function and pass the text you need as an argument. This would help in keeping emojis compatible across different browsers and platforms.
-
-## Technologies Used
-
-- [Next.js](https://nextjs.org/)
-- [axios](https://www.npmjs.com/package/axios)
-- [reactstrap](https://reactstrap.github.io/)
-- [react-reveal](https://www.react-reveal.com/)
-- [react-lottie](https://www.npmjs.com/package/react-lottie)
-- [react-easy-emoji](https://github.com/appfigures/react-easy-emoji)
-- [react-headroom](https://github.com/KyleAMathews/react-headroom)
-- [color-thief](https://github.com/lokesh/color-thief)
-
-## Illustrations
-
-- [Lottie File Source](https://lottiefiles.com)
-
-## Icons
-
-Iconify Icons are used in skill section. You can find all the icons here: [Iconify](https://icon-sets.iconify.design/).
-
-## For the Future
-
-If you can help us with these. Please don't hesitate to open a [pull request](https://github.com/johnrajan95908/developer-portfolio/pulls).
-
-- Enable Dark Mode
-
-- Add More Sections
-
-## Author
-
-👤 **Hanzla Tauqeer**
-
-- Website: https://hanzla.netlify.app
-- Github: [@johnrajan95908](https://github.com/johnrajan95908)
-- LinkedIn: [@johnrajan95908](https://linkedin.com/in/johnrajan95908)
-
-## Show your support
-
-Give a ⭐️ if this project helped you!
+Please hit me up at johnrajan@gmail.com if you have any feedback or ideas for the website. Leave a :star: &nbsp;if you like it!
