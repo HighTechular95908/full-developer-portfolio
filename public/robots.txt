@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /*
+Host: developer-portfolio-johnrajan95908.vercel.app
