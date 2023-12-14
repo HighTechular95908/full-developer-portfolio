@@ -29,7 +29,7 @@ export const contact = {};
 export const socialLinks: SocialLinksType = {
   url: 'https://johnrajan95908.github.io/',
   linkedin: 'https://www.linkedin.com/in/johnrajan95908/',
-  github: 'https://github.com/johnrajan95908',
+  github: 'https://github.com/HighTechular95908',
   // instagram: 'https://www.instagram.com/__hanzla100',
   // facebook: 'https://www.facebook.com/johnrajan95908',
   // twitter: 'https://twitter.com/johnrajan95908',
@@ -261,13 +261,13 @@ export const projects: ProjectType[] = [
   {
     name: 'developer-portfolio',
     desc: 'Software Developer Portfolio Template built with react.js and next.js bootstrap that helps you showcase your work and skills as a software developer.',
-    github: 'https://github.com/johnrajan95908/developer-portfolio',
+    github: 'https://github.com/HighTechular95908/developer-portfolio',
     link: 'https://developer-portfolio-johnrajan95908.vercel.app/',
   },
   {
     name: 'AtlasMart',
     desc: 'With Atlas Mart, it’s easy to find the products with the best price and ship them straight to your door.',
-    github: 'https://github.com/johnrajan95908/Django-React-Marketplace',
+    github: 'https://github.com/HighTechular95908/Django-React-Marketplace',
     link: 'https://transloadit.com/',
   },
   {
@@ -278,7 +278,7 @@ export const projects: ProjectType[] = [
   {
     name: 'Shopaza (Ecommerce)',
     desc: 'Now your reach to all your favorite entertainment and luxury items is just one touch apart',
-    github: 'https://github.com/johnrajan95908/Django-ecommerce',
+    github: 'https://github.com/HighTechular95908/Django-ecommerce',
     link: 'https://www.nelsoncarhire.co.nz/',
   },
 ];

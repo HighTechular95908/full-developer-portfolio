@@ -1,9 +1,9 @@
 # <a href="https://www.Wordpress-RockStar.com" target="_blank">John Rajan-WordPress RockStar!</a>
 
-[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/johnrajan95908/)
-[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://github.com/johnrajan95908/)
-[![Author](https://img.shields.io/badge/Author-John%20Rajan-blue.svg)](https://github.com/johnrajan95908/)
-[![Latest Release](https://img.shields.io/badge/Latest%20Release-3%20December%202023-yellow.svg)](https://github.com/johnrajan95908/)
+[![Repository Status](https://img.shields.io/badge/Repository%20Status-Maintained-dark%20green.svg)](https://github.com/HighTechular95908/)
+[![Website Status](https://img.shields.io/badge/Website%20Status-Online-green)](https://github.com/HighTechular95908/)
+[![Author](https://img.shields.io/badge/Author-John%20Rajan-blue.svg)](https://github.com/HighTechular95908/)
+[![Latest Release](https://img.shields.io/badge/Latest%20Release-3%20December%202023-yellow.svg)](https://github.com/HighTechular95908/)
 
  <p align="justify">
  As an experienced front-end developer with over eight years of web application development experience, I am passionate about working with the latest web technologies to create products of high-quality user experience and excellent performance.</br> I have a strong foundation in front-end development and am skilled in creating reusable and maintainable code.</br>
@@ -48,4 +48,4 @@ Thank you.
 </p>
 </p>
 
-Please hit me up at johnrajan@gmail.com if you have any feedback or ideas for the website. Leave a :star: &nbsp;if you like it!
+Please hit me up at tiger73131@gmail.com if you have any feedback or ideas for the website. Leave a :star: &nbsp;if you like it!
